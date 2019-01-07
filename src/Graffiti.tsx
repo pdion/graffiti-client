@@ -20,7 +20,7 @@ export default class Graffiti extends Component {
         });
         return (
             <View style={ styles.container }>
-                <Text>Open up App.js to start working on your app!</Text>
+                <Text>Using absolute paths</Text>
             </View>
         );
     }
