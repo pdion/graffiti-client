@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.radar:sdk-2.1.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdk-2.1.3.aar/47e46164398e5b8b96ab3cf303901781/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdk-2.1.3.aar/47e46164398e5b8b96ab3cf303901781/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.radar/sdk/2.1.3/cec2ff1a484e91e750241218d8c9929fc108e7c3/sdk-2.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

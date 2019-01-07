@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.2.0",
+    "expo": "^32.0.0",
+    "jest-expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "0.57.1",
+    "react-native-radar": "^2.1.2"
+  },
+  "devDependencies": {
+    "@types/react": "^16.7.18",
+    "@types/react-native": "^0.57.25",
+    "babel-preset-expo": "^5.0.0",
+    "react-native-typescript-transformer": "^1.2.11",
+    "typescript": "^3.2.2"
+  },
+  "private": true
+}

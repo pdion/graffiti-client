@@ -1,0 +1,36 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "target": "es2017",
+    "keyofStringsOnly": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "jsx": "preserve",
+    "allowJs": true,
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "noUnusedLocals": true,
+    "strictPropertyInitialization": true,
+    "baseUrl": ".",
+    "lib": ["es2015", "es2016", "scripthost"],
+    "noErrorTruncation": true,
+    "paths": {
+      "int64Util": ["./node_modules/thrift/lib/nodejs/lib/thrift/int64_util"],
+      "react-native-radar": ["react-native-radar/react-native-radar"],
+      "*": [
+        "./src/*",
+        "./"
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts",
+    "./build/**",
+    "./bin/**"
+  ],
+  "include": [
+    "./webpack/**/*"
+  ]
+}

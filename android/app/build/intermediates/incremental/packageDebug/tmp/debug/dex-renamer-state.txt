@@ -1,0 +1,4 @@
+#Mon Jan 07 09:21:34 PST 2019
+base.0=/Users/pdion/Documents/Projects/graffiti-client/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
